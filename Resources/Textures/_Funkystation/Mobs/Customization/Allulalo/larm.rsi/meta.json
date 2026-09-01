@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "license": "CC-BY-3.0",
+  "copyright": "Resprite for Funkystation by not-macaw (github)",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "allulaloArmDefaultLeft",
+      "directions": 4
+    }
+  ]
+}

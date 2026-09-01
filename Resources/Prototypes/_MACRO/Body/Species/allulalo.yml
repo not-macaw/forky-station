@@ -262,7 +262,7 @@
   components:
   - type: VisualOrgan
     data:
-      sprite: _MACRO/Mobs/Species/Allulalo/parts.rsi
+      sprite: _Funkystation/Mobs/Species/Allulalo/parts.rsi
   - type: VisualOrganMarkings
     markingData:
       group: Allulalo
@@ -273,7 +273,7 @@
   abstract: true
   components:
   - type: Sprite
-    sprite: _MACRO/Mobs/Species/Allulalo/parts.rsi
+    sprite: _Funkystation/Mobs/Species/Allulalo/parts.rsi
 
 - type: entity
   parent: OrganAllulalo
@@ -343,7 +343,7 @@
   - type: VisualOrgan
     layer: enum.HumanoidVisualLayers.Eyes
     data:
-      sprite: _MACRO/Mobs/Species/Allulalo/parts.rsi
+      sprite: _Funkystation/Mobs/Species/Allulalo/parts.rsi
       state: eyes
 
 - type: entity

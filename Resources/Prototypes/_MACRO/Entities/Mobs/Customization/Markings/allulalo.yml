@@ -20,12 +20,12 @@
 # Head
 
 - type: marking
-  id: AllulaloHeadUnderbelly
+  id: AllulaloHeadBeakSides # Funky - renamed for clarity
   bodyPart: Head
   groupWhitelist: [ Allulalo ]
   sprites:
-  - sprite: _MACRO/Mobs/Customization/Allulalo/head.rsi
-    state: allulaloHeadUnderbelly
+  - sprite: _Funkystation/Mobs/Customization/Allulalo/head.rsi
+    state: allulaloHeadBeakSides
 
 - type: marking
   id: AllulaloHeadSpikes
@@ -48,7 +48,7 @@
       type:
         !type:EyeColoring
   sprites:
-  - sprite: _MACRO/Mobs/Customization/Allulalo/eyes.rsi
+  - sprite: _Funkystation/Mobs/Customization/Allulalo/eyes.rsi
     state: allulaloEyesDefault
   forcedColoring: true
 
@@ -88,7 +88,7 @@
   bodyPart: RArm
   groupWhitelist: [ Allulalo ]
   sprites:
-  - sprite: _MACRO/Mobs/Customization/Allulalo/rarm.rsi
+  - sprite: _Funkystation/Mobs/Customization/Allulalo/rarm.rsi
     state: allulaloArmDefaultRight
 
 - type: marking
@@ -120,7 +120,7 @@
   bodyPart: LArm
   groupWhitelist: [ Allulalo ]
   sprites:
-  - sprite: _MACRO/Mobs/Customization/Allulalo/larm.rsi
+  - sprite: _Funkystation/Mobs/Customization/Allulalo/larm.rsi
     state: allulaloArmDefaultLeft
 
 - type: marking
@@ -254,7 +254,7 @@
   bodyPart: HeadTop
   groupWhitelist: [ Allulalo ]
   sprites:
-  - sprite: _MACRO/Mobs/Customization/Allulalo/headtop.rsi
+  - sprite: _Funkystation/Mobs/Customization/Allulalo/headtop.rsi
     state: allulaloHeadTopStubHorns
 
 - type: marking
@@ -262,7 +262,7 @@
   bodyPart: HeadTop
   groupWhitelist: [ Allulalo ]
   sprites:
-  - sprite: _MACRO/Mobs/Customization/Allulalo/headtop.rsi
+  - sprite: _Funkystation/Mobs/Customization/Allulalo/headtop.rsi
     state: allulaloHeadTopPlumage1
 
 - type: marking
@@ -280,11 +280,11 @@
   bodyPart: Tail
   groupWhitelist: [ Allulalo ]
   sprites:
-  - sprite: _MACRO/Mobs/Customization/Allulalo/tail.rsi
+  - sprite: _Funkystation/Mobs/Customization/Allulalo/tail.rsi
     state: allulaloTailDefault
-  - sprite: _MACRO/Mobs/Customization/Allulalo/tail.rsi
+  - sprite: _Funkystation/Mobs/Customization/Allulalo/tail.rsi
     state: allulaloTailDefault2
-  - sprite: _MACRO/Mobs/Customization/Allulalo/tail.rsi
+  - sprite: _Funkystation/Mobs/Customization/Allulalo/tail.rsi
     state: allulaloTailDefault3
 
 - type: marking
